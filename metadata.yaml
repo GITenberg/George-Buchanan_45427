@@ -1,0 +1,41 @@
+_repo: George-Buchanan_45427
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Joseph
+    gutenberg_agent_id: '42796'
+    url: http://www.gutenberg.org/2009/agents/42796
+covers:
+- cover_type: archival
+  image_path: 45427-h/images/front_cover_small.jpg
+creator:
+  authors:
+  - agent_name: John Campbell Smith
+    alias: Smith, J. Campbell
+    birthdate: 1828
+    deathdate: 1914
+    gutenberg_agent_id: '43279'
+    url: http://www.gutenberg.org/2009/agents/43279
+    wikipedia: https://en.wikipedia.org/wiki/John_Campbell_Smith
+  - agent_name: Wallace, Robert
+    birthdate: 1831
+    deathdate: 1899
+    gutenberg_agent_id: '33141'
+    url: http://www.gutenberg.org/2009/agents/33141
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Wallace_%28Edinburgh_MP%29
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2014-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 32
+subjects:
+- !lcc 'DA'
+- !lcsh 'Buchanan, George, 1506-1582'
+title: George Buchanan
+url: http://www.gutenberg.org/ebooks/45427
