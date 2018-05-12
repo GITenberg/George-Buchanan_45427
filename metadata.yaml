@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33141
     wikipedia: https://en.wikipedia.org/wiki/Robert_Wallace_%28Edinburgh_MP%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45427#George-Buchanan
 gutenberg_bookshelf: Famous Scots Series
 gutenberg_issued: '2014-04-17'
 gutenberg_type: Text
