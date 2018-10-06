@@ -39,5 +39,6 @@ series_note: Famous Scots Series, 32
 subjects:
 - !lcc 'DA'
 - !lcsh 'Buchanan, George, 1506-1582'
+- GITenberg
 title: George Buchanan
 url: http://www.gutenberg.org/ebooks/45427
